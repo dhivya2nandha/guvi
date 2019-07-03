@@ -1,3 +1,4 @@
+""" change middle character"""
 s=list(input())
 if len(s)%2==0:
     s[int(len(s)/2)] ='*'
