@@ -1,3 +1,5 @@
+
+"""87.py"""
 xx,yy=list(map(int,input().split()))
 xy=[]
 for i in range(1,100):
